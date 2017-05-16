@@ -12,6 +12,9 @@ call npm install appium-gulp-plugins
 cd ..\Appium-Android-Driver
 call npm install gulp
 call npm install appium-gulp-plugins
+cd ..\Appium-UnityEditor-Driver
+call npm install gulp
+call npm install appium-gulp-plugins
 cd ..\Appium-HCP
 call npm install gulp
 call npm install appium-gulp-plugins

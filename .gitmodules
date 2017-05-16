@@ -19,6 +19,9 @@
 [submodule "Appium-Dot-Exe"]
 	path = Appium-Dot-Exe
 	url = https://github.com/FastQuagga/appium-dot-exe
+[submodule "Appium-UnityEditor-Driver"]
+	path = Appium-Dot-Exe
+	url = https://github.com/FastQuagga/appium-unityeditor-driver
 [submodule "Appium-Android-Driver"]
 	path = Appium-Android-Driver
 	url = ../../FastQuagga/appium-android-driver
