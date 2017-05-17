@@ -28,9 +28,6 @@
 [submodule "Appium-IOS-Driver"]
 	path = Appium-IOS-Driver
 	url = https://github.com/FastQuagga/appium-ios-driver
-[submodule "Selenium"]
-	path = Selenium
-	url = https://github.com/FastQuagga/selenium
 [submodule "Appium-Dot-App"]
 	path = Appium-Dot-App
 	url = https://github.com/FastQuagga/appium-dot-app
